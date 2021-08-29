@@ -1,7 +1,10 @@
-<h1 align='center'> Hi there 👋, I'm Gia Bao  👩‍💻 </h1>
+<h1 align='center'> Hi there 👋, I'm Gia Bảo  👩‍💻 </h1>
 
 <p align='center'>
-  I am living in Da Nang city and try hard to come <b>a software engineer </b> 
+  Living in Da Nang city and try hard to come <b>a software engineer </b> 
+</p>
+<p align='center'>
+  I'm most comfortable in that weird, funky world between design and development—that's where the most fun, creative, boundary-breaking work happens. If you're interested in the work I do, please consider supporting me on GitHub!
 </p>
 
 <p align='center'>
@@ -14,17 +17,6 @@
 <hr>
 
 <h4> 🔭 I’m currently working with ...</h4>
-
-<h5>UI Developer</h5>
-<p >
-  <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp;&nbsp;<img src="https://img.shields.io/badge/sass%20-%23cc6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;
-</p>
-
-
-<hr>
-
-## 🚀 Languages and Tools:
-
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>

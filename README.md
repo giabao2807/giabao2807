@@ -42,7 +42,7 @@
 
   <br/>
     <a href="https://github.com/giabao2807/github-readme-stats"><img alt="giabao2807's Github Stats" src="https://github-readme-stats.vercel.app/api?username=giabao2807&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/giabao2807/github-readme-stats"><img alt="giabao2807's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=giabao2807&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="giabao2807-stats" /></a>
+  <a href="https://github.com/giabao2807/github-readme-stats"><img alt="giabao2807's Top Languages" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=giabao2807&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="giabao2807-stats" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 

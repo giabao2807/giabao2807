@@ -1,10 +1,12 @@
 <h1 align='center'> Hi there 👋, I'm Gia Bảo  👩‍💻 </h1>
 
 <p align='center'>
-  Living in Da Nang city and try hard to come <b>a software engineer </b> 
+  Living in Da Nang city and try hard to come <b>web developer</b> 
 </p>
 <p align='center'>
-  I'm most comfortable in that weird, funky world between design and development—that's where the most fun, creative, boundary-breaking work happens. If you're interested in the work I do, please consider supporting me on GitHub!
+  You can call me <b>Nyy</b>.🌸 Love cat and love myself.🍓<br/> 
+  I'm most comfortable in that weird, funky world between design and development—that's where the most fun, creative, boundary-breaking work happens.
+  Contact me anytime if you like ✨
 </p>
 
 <p align='center'>

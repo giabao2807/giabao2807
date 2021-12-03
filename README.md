@@ -1,15 +1,11 @@
-<h1 align='center'> Hi there 👋, I'm Gia Bảo  👩‍💻 </h1>
+<h1 align='center'> Hi !!! Gia Bảo nèeee 👩‍💻 </h1>
 
 <p align='center'>
-  Living in Da Nang city and try hard to come <b>web developer</b> 
+  Little girl with a big dream ⛅️. Try hard to become a <b>web developer</b>  🔖
 </p>
 <p align='center'>
   You can call me <b>Nyy</b>.🌸 Love cat and love myself.🍓<br/> 
-  I'm most comfortable in that weird, funky world between design and development—that's where the most fun, creative, boundary-breaking work happens.
-  Contact me anytime if you like ✨
 </p>
-
-
 
 <hr>
 
@@ -37,6 +33,9 @@
   <br/>
     <a href="https://github.com/giabao2807/github-readme-stats"><img alt="giabao2807's Github Stats" src="https://github-readme-stats.vercel.app/api?username=giabao2807&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/giabao2807/github-readme-stats"><img alt="giabao2807's Top Languages" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=giabao2807&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="giabao2807-stats" /></a>
+  
+| ![1](https://i.pinimg.com/originals/35/4c/5f/354c5ff30ee5d5a378932e7baa860fc4.gif) |
+| --- | 
   <br/>
 <br/>
 

@@ -6,7 +6,7 @@
 </p>
 
 <p align='center'>
-  You can call me <b>Nyy</b>.🌸 Love cat and love myself.🍓<br/> 
+  You can call me <b>Boni</b>.🌸 Love cat and love myself.🍓<br/> 
 </p>
 
 

@@ -36,10 +36,8 @@
 <p align="left">
 <a href = "https://www.linkedin.com/in/b%E1%BA%A3o-%C4%91inh-gia-9b17bb20a/"><img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"/></a>
 <a href = "https://www.facebook.com/giabaobao2807/"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
-<a href = "https://twitter.com/giabao2807"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/giabao.izhere/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-  <a href= "mailto:dinhgiabao2807@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UCBImcNeAi4soXFwQnACdkXA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href= "mailto:dinhgiabao2807@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
 
 </p>
 
